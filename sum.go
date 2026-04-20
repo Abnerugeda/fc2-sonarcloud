@@ -37,15 +37,3 @@ func sumX4(a int, b int) int {
 func sumX5(a int, b int) int {
 	return a + b + a
 }
-
-func sub25(a int, b int) int {
-	return a - b
-}
-
-func times35(a int, b int) int {
-	return a * b
-}
-
-func sumX45(a int, b int) int {
-	return a + b + a
-}
